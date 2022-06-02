@@ -1,2 +1,1 @@
--- A&B STORE
--- NOT ABDULLAH.#0001
+!General#0001
